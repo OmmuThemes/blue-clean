@@ -28,8 +28,8 @@
 	"authors": [
 		{
 			"name": "Putra Sudaryanto",
-			"email": "putra@ommu.co",
-			"homepage": "https://ommu.co",
+			"email": "putra@ommu.id",
+			"homepage": "https://ommu.id",
 			"role": "Developer"
 		}
 	],
@@ -39,6 +39,6 @@
 		"bower-asset/glyphicons-only-bootstrap": "*",
 		"yiisoft/yii2-bootstrap4": "*",
 		"npm-asset/bootstrap": "~4.2",
-		"fortawesome/font-awesome": "~4.7"
+		"bower-asset/font-awesome": "~5.1"
 	}
 }

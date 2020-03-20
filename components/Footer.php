@@ -20,7 +20,7 @@ class Footer extends \yii\base\Widget
 			$this->address = 'Pandes 1 RT.04 Wonokromo, Pleret, Bantul, D.I Yogyakarta Indonesia';
 
 		if(!$this->email)
-			$this->email = 'theme@ommu.co';
+			$this->email = 'theme@ommu.id';
 
 		if(!$this->phone)
 			$this->phone = '(+62) 811-2540-432';
